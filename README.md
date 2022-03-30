@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BestGuo2020, I'm clever, cute and brave.
 - 👀 I’m interested in coding👨‍💻,running🏃,badminton🏸,singing and ACGN......
-- 🌱 I’m currently learning Spring series Framework.
+- 🌱 I’m currently learning Spring series Framework, MicroService, Security Framework, and more.
 - 📫 How to reach me? E-mail: bestguo2020@foxmail.com.
 
 <!---
